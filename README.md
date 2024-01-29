@@ -1,4 +1,4 @@
-# digittask
+# Car model indentification digittask
 
 Topic:- Train a light weight model to identify make and model of the cars.
 Dataset - Car Images Dataset | Kaggle
